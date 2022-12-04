@@ -7,3 +7,4 @@ and its allocation toward storage,date related datatypes  <br />
 3)sql part-2(1)ddl-data defination language-create,alter,rename,drop,trucate with explanation  <br />  <br />
 4)sql part-2(2)dml-data manipulation language-insert,update,delete,with explanation and hands on practice  <br />  <br />
 5)sql part-2(3)dql-data query language-select(dql useful for to read the data) and fuctions and operators-comparison-<,>,<=>(null),betweent....and...,is null,is not null,or,like,not()..like,<=,>=,not between.....and...not
+### For complete cheatsheet and code https://docs.google.com/document/d/1uVzoJWkAwDFW69tOoskVM5wtFa6reSq7E6MPZR5XVEg/edit?usp=sharing
